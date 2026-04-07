@@ -19,8 +19,6 @@ bladex/sentinel-dashboard
 seataio/seata-server	
 apolloconfig/apollo-configservice
 minio/minio	
-consul
-jenkins
 jenkins/jenkins
 gitlab/gitlab-ce
 sonarqube
