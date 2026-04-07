@@ -14,14 +14,19 @@ jetty
 rabbitmq
 confluentinc/cp-kafka
 apache/kafka
-nacos
+nacos/nacos-server
+bladex/sentinel-dashboard	
+seataio/seata-server	
+apolloconfig/apollo-configservice
+minio/minio	
 consul
 jenkins
 jenkins/jenkins
 gitlab/gitlab-ce
+sonarqube
 
 #可观测性
-prometheus
+prom/prometheus	
 grafana/grafana
 jaegertracing/all-in-one	
 elasticsearch
@@ -31,5 +36,5 @@ kibana
 #中间件
 seataio/seata-server	
 shardingsphere/shardingsphere-proxy	
-apollo
-sentinel
+apolloconfig/apollo-configservice
+
