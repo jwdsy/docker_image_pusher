@@ -12,7 +12,8 @@ jetty
 
 #开发工具类
 rabbitmq
-kafka
+confluentinc/cp-kafka
+apache/kafka
 nacos
 consul
 jenkins
