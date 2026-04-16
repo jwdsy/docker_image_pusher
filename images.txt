@@ -1,4 +1,5 @@
 #基础架构类
+milvus:v2.0.0
 mysql:5.7
 mysql:8.4
 redis
