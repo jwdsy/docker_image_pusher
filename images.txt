@@ -1,5 +1,5 @@
 #基础架构类
-zilliztech/attu:v2.2.8
+zilliz/attu:v2.2.8
 milvusdb/milvus:v2.2.0
 minio/minio
 quay.io/coreos/etcd:v3.5.5
